@@ -5,7 +5,7 @@ setup(
     version='1.1.0',
     url='https://github.com/lotrekagency/mailupy',
     install_requires=[
-        "requests==2.24.0"
+        "requests==2.32.2"
     ],
     description="Yet another Mailup Python client",
     long_description=open('README.rst', 'r').read(),
